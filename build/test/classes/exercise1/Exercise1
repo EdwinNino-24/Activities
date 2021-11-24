@@ -1,0 +1,37 @@
+El mínimo común múltiplo de varios números es el menor número que es múltiplo de todos
+ellos a la vez.
+Por ejemplo, el mcm de 3 y 7 es 21, el de 4 y 12 es 12, y el de 9 y 12 es 36.
+El usuario introducirá tres números enteros (positivos, de no más de 5 cifras), uno en cada
+línea. Tu programa debe mostrar el mínimo común múltiplo de esos tres números.
+Entradas y salidas de ejemplo:
+Entrada 1
+3
+7
+2
+Salida 1
+42
+Entrada 2
+12
+24
+28
+Salida 2
+168
+Entrada 3
+12
+24
+48
+Salida 3
+48
+Entrada 4
+1234
+1326
+888
+Salida 4
+121085016
+Entrada 5
+12345
+54321
+55555
+Salida 5
+
+248365199656

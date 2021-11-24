@@ -1,0 +1,25 @@
+Buenos días, hoy es un ejercicio de matemática, la clase math les ayudara a resolver este ejercicio con facilidad. https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html.
+
+
+Debes encontrar los tres últimos dígitos antes de la coma decimal para (3 + raíz(5)) elevado a n.
+
+Por ejemplo, para n = 5, (3 + √5)5 = 3935.73982... La respuesta es 935.
+
+Para n = 2, (3 + √5)2 = 27.4164079... La respuesta es 027.
+
+El primer dato de entrada será la cantidad de valores que se van a analizar.
+
+Ejemplo de entrada
+5
+5
+2
+11
+22
+29
+
+Salida correspondiente
+935
+027
+943
+527
+135
