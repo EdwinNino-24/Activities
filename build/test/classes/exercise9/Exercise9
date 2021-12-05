@@ -1,0 +1,20 @@
+Buenos días, este ejercicio es muy fácil y rápido 👍
+
+Ejercicio 9
+
+Dada una serie de palabras separadas por espacios, escribir la frase formada por las mismas palabras en orden inverso. Cada palabra estará formada exclusivamente por letras, y existirá exactamente un espacio entre cada pareja de palabras.
+
+El primer dato de entrada será la cantidad de valores que se van a analizar.
+
+Ejemplo de entrada
+
+3
+this is a test
+foobar
+all your base
+
+Salida correspondiente
+
+test a is this
+foobar
+base your all

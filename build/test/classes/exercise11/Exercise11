@@ -1,0 +1,65 @@
+Ejercicio 11
+
+Recibir un valor de punto flotante con dos números decimales. Este valor representa un valor monetario. Luego de esto, calcular el menor número posible de billetes y monedas en los cuales su valor puede ser descompuesto. Los billetes a tener en cuenta son de 100, 50, 20, 10, 5, 2. Las monedas posibles son de 1, 0.50, 0.25, 0.10, 0.05 y 0.01. Mostrar el mensaje "NOTAS:" seguido de una lista de billetes y el mensaje "MOEDAS:" seguido de una lista de monedas.
+
+Entrada
+El archivo de entrada contiene un valor de punto flotante N (0 ≤ N ≤ 1000000.00).
+
+Salida
+Mostrar la mínima cantidad de billetes y monedas necesarias para cambiar el valor inicial, como en el ejemplo dado.
+
+
+Ejemplos de Entradas
+Ejemplos de Salidas
+576.73
+NOTAS:
+5 nota(s) de R$ 100.00
+1 nota(s) de R$ 50.00
+1 nota(s) de R$ 20.00
+0 nota(s) de R$ 10.00
+1 nota(s) de R$ 5.00
+0 nota(s) de R$ 2.00
+MOEDAS:
+1 moeda(s) de R$ 1.00
+1 moeda(s) de R$ 0.50
+0 moeda(s) de R$ 0.25
+2 moeda(s) de R$ 0.10
+0 moeda(s) de R$ 0.05
+3 moeda(s) de R$ 0.01
+
+
+4.00
+NOTAS:
+0 nota(s) de R$ 100.00
+0 nota(s) de R$ 50.00
+0 nota(s) de R$ 20.00
+0 nota(s) de R$ 10.00
+0 nota(s) de R$ 5.00
+2 nota(s) de R$ 2.00
+MOEDAS:
+0 moeda(s) de R$ 1.00
+0 moeda(s) de R$ 0.50
+0 moeda(s) de R$ 0.25
+0 moeda(s) de R$ 0.10
+0 moeda(s) de R$ 0.05
+0 moeda(s) de R$ 0.01
+
+
+91.01
+NOTAS:
+0 nota(s) de R$ 100.00
+1 nota(s) de R$ 50.00
+2 nota(s) de R$ 20.00
+0 nota(s) de R$ 10.00
+0 nota(s) de R$ 5.00
+0 nota(s) de R$ 2.00
+MOEDAS:
+1 moeda(s) de R$ 1.00
+0 moeda(s) de R$ 0.50
+0 moeda(s) de R$ 0.25
+0 moeda(s) de R$ 0.10
+0 moeda(s) de R$ 0.05
+1 moeda(s) de R$ 0.01
+
+
+

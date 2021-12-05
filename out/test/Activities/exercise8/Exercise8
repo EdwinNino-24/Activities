@@ -1,0 +1,27 @@
+Buenos días hoy vamos a competir con un ejercicio que se puede desarrollar con 
+recursividad pero para el caso, pueden desarrollarlo como su lógica les diga .
+
+Ejercicio 8
+
+La sucesión de Fibonacci
+
+En ocasiones también conocida como secuencia de Fibonacci o incorrectamente 
+como serie de Fibonacci, es en sí una sucesión matemática infinita. 
+Consta de una serie de números naturales que se suman de a 2, a partir de 0 y 1. 
+Básicamente, la sucesión de Fibonacci se realiza sumando siempre los últimos 2 números 
+(Todos los números presentes en la sucesión se llaman números de Fibonacci) de la siguiente manera:
+
+0,1,1,2,3,5,8,13,21,34...
+
+Fácil, ¿no?
+
+(0+1=1 / 1+1=2 / 1+2=3 / 2+3=5 / 3+5=8 / 5+8=13 / 8+13=21 / 13+21=34...)
+
+Así sucesivamente, hasta el infinito. Por regla, la sucesión de Fibonacci se escribe así:
+
+n = n-1 + n-2.
+
+
+Obtener los primeros 20 números de la sucesión
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181

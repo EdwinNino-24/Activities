@@ -1,0 +1,25 @@
+Buenos días, este es el ejercicio de hoy tienen 15 min. A los que no han ganado puntos anímense, este ejercicio es mas de rapidez, no tiene mucha complejidad.
+
+Ejercicio 6
+
+Deberás validar que todos los paréntesis de la cadena ingresada se abran y se cierren correctamente:
+
+Ejemplo de entrada:
+(()())()
+((()()))
+(())()())())))
+(()((((())))))()()()))))()()))
+(()((((())))))()()()))))(
+(()((((())))))((((()()()))))()
+()((()))
+
+
+
+Ejemplo salida
+SI
+SI
+NO
+NO
+NO
+SI
+SI

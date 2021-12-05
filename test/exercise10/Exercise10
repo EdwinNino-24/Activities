@@ -1,0 +1,21 @@
+Ejercicio 10
+
+En matemáticas, un número perfecto es un número entero para el cual la suma de todos sus propios divisores positivos 
+(excluyéndose a sí mismo) es igual al número en sí. Por ejemplo, el número 6 es perfecto, porque 1 + 2 + 3 es igual a 6. 
+Tu tarea es escribir un programa que lea números enteros e imprima un mensaje informando si estos números son perfectos 
+o no son perfectos.
+
+La entrada contiene varios casos de prueba. El primero contiene el número de casos de prueba N (1 ≤ N ≤ 100). 
+Cada una de las siguientes N líneas contiene un número entero X (1 ≤ X ≤ 10 8 ), que puede ser o no un número perfecto.
+
+Entrada
+3
+6
+5
+28
+
+Salida
+SI
+NO
+SI
+
