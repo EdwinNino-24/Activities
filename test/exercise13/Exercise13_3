@@ -1,0 +1,40 @@
+Equilibrio de Paréntesis I
+Por Neilor Tonin, URI  Brasil
+
+Time Limit: 1
+Considerando una expresión con paréntesis, imprima un mensaje informando si la cantidad de paréntesis es correcta o incorrecta, sin considerar el resto de la expresión. Ejemplo:
+
+
+a+(b*c)-2-a        es correcto
+(a+b*(2-c)-2+a)*2  es correcto
+donde
+
+(a*b-(2+c)         es incorrecto
+2*(3-a))           es incorrecto
+)3+b*(2-c)(        es incorrecto
+
+Resumiendo, todos los paréntesis cerrados debe tener un paréntesis abierto y no es posible un paréntesis de cierre sin un paréntesis abierto previamente, y la cantidad de paréntesis cerrados y abiertos deben ser iguales.
+
+Entrada
+El archivo de entrada contiene N expresiones (1 <= N <= 10000), cada una con hasta 1000 caracteres. 
+
+Salida
+La salida debe mostrar correct or incorrect para cada caso de prueba de acuerdo con la reglas anteriores.
+
+Ejemplo de entrada	Ejemplo de salida
+5
+a+(b*c)-2-a 
+(a+b*(2-c)-2+a)*2 
+(a*b-(2+c) 
+2*(3-a))  
+)3+b*(2-c)( 
+
+correct
+
+correct
+
+incorrect
+
+incorrect
+
+incorrect
